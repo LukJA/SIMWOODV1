@@ -1,0 +1,408 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DESKTOP-N99POKM</Machine>
+    <WindowsUser>lukej</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Release|x86</SolutionConfiguration>
+    <PackageArchitecture>x86</PackageArchitecture>
+    <PackageIdentityName>daae24b6-8dab-4d58-8a34-d6168b64c7bc</PackageIdentityName>
+    <PackageIdentityPublisher>CN=lukej</PackageIdentityPublisher>
+    <IntermediateOutputPath>C:\Users\lukej\Documents\Visual Studio 2017\Projects\SIMWOODV1\SIMWOODV1\obj\x86\Release\</IntermediateOutputPath>
+    <RemoteDeploymentType>
+    </RemoteDeploymentType>
+    <PackageRegistrationPath>
+    </PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+    <DeployOptionalPackages>false</DeployOptionalPackages>
+    <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
+    <LayoutDir>C:\Users\lukej\Documents\Visual Studio 2017\Projects\SIMWOODV1\SIMWOODV1\bin\x86\Release\AppX</LayoutDir>
+    <RegisteredManifestChecksum>E7AC02361910FAD1E3CF2AE82C84B1D89E34B31F0395565DE181EEE8E56FD604</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>daae24b6-8dab-4d58-8a34-d6168b64c7bc_1.0.0.0_x86__1taaevra4vbb2</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>daae24b6-8dab-4d58-8a34-d6168b64c7bc_1taaevra4vbb2!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>daae24b6-8dab-4d58-8a34-d6168b64c7bc</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=lukej</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\lukej\Documents\Visual Studio 2017\Projects\SIMWOODV1\SIMWOODV1\bin\x86\Release\ilc\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-08-03T17:05:58.111</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\lukej\Documents\Visual Studio 2017\Projects\SIMWOODV1\SIMWOODV1\bin\x86\Release\ilc\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2018-08-03T17:05:06.034</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lukej\Documents\Visual Studio 2017\Projects\SIMWOODV1\SIMWOODV1\bin\x86\Release\ilc\Assets\BadgeLogo.scale-100.png">
+      <PackagePath>Assets\BadgeLogo.scale-100.png</PackagePath>
+      <Modified>2018-08-03T15:35:00.410</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lukej\Documents\Visual Studio 2017\Projects\SIMWOODV1\SIMWOODV1\bin\x86\Release\ilc\Assets\BadgeLogo.scale-125.png">
+      <PackagePath>Assets\BadgeLogo.scale-125.png</PackagePath>
+      <Modified>2018-08-03T15:35:00.424</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lukej\Documents\Visual Studio 2017\Projects\SIMWOODV1\SIMWOODV1\bin\x86\Release\ilc\Assets\BadgeLogo.scale-150.png">
+      <PackagePath>Assets\BadgeLogo.scale-150.png</PackagePath>
+      <Modified>2018-08-03T15:35:00.439</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lukej\Documents\Visual Studio 2017\Projects\SIMWOODV1\SIMWOODV1\bin\x86\Release\ilc\Assets\BadgeLogo.scale-200.png">
+      <PackagePath>Assets\BadgeLogo.scale-200.png</PackagePath>
+      <Modified>2018-08-03T15:35:00.454</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lukej\Documents\Visual Studio 2017\Projects\SIMWOODV1\SIMWOODV1\bin\x86\Release\ilc\Assets\BadgeLogo.scale-400.png">
+      <PackagePath>Assets\BadgeLogo.scale-400.png</PackagePath>
+      <Modified>2018-08-03T15:35:00.475</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lukej\Documents\Visual Studio 2017\Projects\SIMWOODV1\SIMWOODV1\bin\x86\Release\ilc\Assets\LargeTile.scale-100.png">
+      <PackagePath>Assets\LargeTile.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-08-03T15:10:53.369</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lukej\Documents\Visual Studio 2017\Projects\SIMWOODV1\SIMWOODV1\bin\x86\Release\ilc\Assets\LargeTile.scale-125.png">
+      <PackagePath>Assets\LargeTile.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-08-03T15:10:53.405</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lukej\Documents\Visual Studio 2017\Projects\SIMWOODV1\SIMWOODV1\bin\x86\Release\ilc\Assets\LargeTile.scale-150.png">
+      <PackagePath>Assets\LargeTile.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-08-03T15:10:53.447</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lukej\Documents\Visual Studio 2017\Projects\SIMWOODV1\SIMWOODV1\bin\x86\Release\ilc\Assets\LargeTile.scale-200.png">
+      <PackagePath>Assets\LargeTile.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-08-03T15:10:53.508</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lukej\Documents\Visual Studio 2017\Projects\SIMWOODV1\SIMWOODV1\bin\x86\Release\ilc\Assets\LargeTile.scale-400.png">
+      <PackagePath>Assets\LargeTile.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-08-03T15:10:53.711</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lukej\Documents\Visual Studio 2017\Projects\SIMWOODV1\SIMWOODV1\bin\x86\Release\ilc\Assets\LockScreenLogo.scale-200.png">
+      <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
+      <Modified>2018-07-17T08:35:18.413</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lukej\Documents\Visual Studio 2017\Projects\SIMWOODV1\SIMWOODV1\bin\x86\Release\ilc\Assets\SmallTile.scale-100.png">
+      <PackagePath>Assets\SmallTile.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-08-03T15:10:52.829</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lukej\Documents\Visual Studio 2017\Projects\SIMWOODV1\SIMWOODV1\bin\x86\Release\ilc\Assets\SmallTile.scale-125.png">
+      <PackagePath>Assets\SmallTile.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-08-03T15:10:52.845</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lukej\Documents\Visual Studio 2017\Projects\SIMWOODV1\SIMWOODV1\bin\x86\Release\ilc\Assets\SmallTile.scale-150.png">
+      <PackagePath>Assets\SmallTile.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-08-03T15:10:52.861</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lukej\Documents\Visual Studio 2017\Projects\SIMWOODV1\SIMWOODV1\bin\x86\Release\ilc\Assets\SmallTile.scale-200.png">
+      <PackagePath>Assets\SmallTile.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-08-03T15:10:52.878</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lukej\Documents\Visual Studio 2017\Projects\SIMWOODV1\SIMWOODV1\bin\x86\Release\ilc\Assets\SmallTile.scale-400.png">
+      <PackagePath>Assets\SmallTile.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-08-03T15:10:52.904</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lukej\Documents\Visual Studio 2017\Projects\SIMWOODV1\SIMWOODV1\bin\x86\Release\ilc\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-08-03T15:10:54.015</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lukej\Documents\Visual Studio 2017\Projects\SIMWOODV1\SIMWOODV1\bin\x86\Release\ilc\Assets\SplashScreen.scale-125.png">
+      <PackagePath>Assets\SplashScreen.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-08-03T15:10:54.074</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lukej\Documents\Visual Studio 2017\Projects\SIMWOODV1\SIMWOODV1\bin\x86\Release\ilc\Assets\SplashScreen.scale-150.png">
+      <PackagePath>Assets\SplashScreen.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-08-03T15:10:54.150</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lukej\Documents\Visual Studio 2017\Projects\SIMWOODV1\SIMWOODV1\bin\x86\Release\ilc\Assets\SplashScreen.scale-200.png">
+      <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-08-03T15:10:54.284</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lukej\Documents\Visual Studio 2017\Projects\SIMWOODV1\SIMWOODV1\bin\x86\Release\ilc\Assets\SplashScreen.scale-400.png">
+      <PackagePath>Assets\SplashScreen.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-08-03T15:10:54.784</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lukej\Documents\Visual Studio 2017\Projects\SIMWOODV1\SIMWOODV1\bin\x86\Release\ilc\Assets\Square150x150Logo.scale-100.png">
+      <PackagePath>Assets\Square150x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-08-03T15:10:52.925</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lukej\Documents\Visual Studio 2017\Projects\SIMWOODV1\SIMWOODV1\bin\x86\Release\ilc\Assets\Square150x150Logo.scale-125.png">
+      <PackagePath>Assets\Square150x150Logo.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-08-03T15:10:52.943</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lukej\Documents\Visual Studio 2017\Projects\SIMWOODV1\SIMWOODV1\bin\x86\Release\ilc\Assets\Square150x150Logo.scale-150.png">
+      <PackagePath>Assets\Square150x150Logo.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-08-03T15:10:52.965</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lukej\Documents\Visual Studio 2017\Projects\SIMWOODV1\SIMWOODV1\bin\x86\Release\ilc\Assets\Square150x150Logo.scale-200.png">
+      <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-08-03T15:10:52.993</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lukej\Documents\Visual Studio 2017\Projects\SIMWOODV1\SIMWOODV1\bin\x86\Release\ilc\Assets\Square150x150Logo.scale-400.png">
+      <PackagePath>Assets\Square150x150Logo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-08-03T15:10:53.058</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lukej\Documents\Visual Studio 2017\Projects\SIMWOODV1\SIMWOODV1\bin\x86\Release\ilc\Assets\Square44x44Logo.altform-unplated_targetsize-16.png">
+      <PackagePath>Assets\Square44x44Logo.altform-unplated_targetsize-16.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-08-03T15:10:53.897</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lukej\Documents\Visual Studio 2017\Projects\SIMWOODV1\SIMWOODV1\bin\x86\Release\ilc\Assets\Square44x44Logo.altform-unplated_targetsize-256.png">
+      <PackagePath>Assets\Square44x44Logo.altform-unplated_targetsize-256.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-08-03T15:10:53.971</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lukej\Documents\Visual Studio 2017\Projects\SIMWOODV1\SIMWOODV1\bin\x86\Release\ilc\Assets\Square44x44Logo.altform-unplated_targetsize-32.png">
+      <PackagePath>Assets\Square44x44Logo.altform-unplated_targetsize-32.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-08-03T15:10:53.926</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lukej\Documents\Visual Studio 2017\Projects\SIMWOODV1\SIMWOODV1\bin\x86\Release\ilc\Assets\Square44x44Logo.altform-unplated_targetsize-48.png">
+      <PackagePath>Assets\Square44x44Logo.altform-unplated_targetsize-48.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-08-03T15:10:53.944</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lukej\Documents\Visual Studio 2017\Projects\SIMWOODV1\SIMWOODV1\bin\x86\Release\ilc\Assets\Square44x44Logo.scale-100.png">
+      <PackagePath>Assets\Square44x44Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-08-03T15:10:53.725</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lukej\Documents\Visual Studio 2017\Projects\SIMWOODV1\SIMWOODV1\bin\x86\Release\ilc\Assets\Square44x44Logo.scale-125.png">
+      <PackagePath>Assets\Square44x44Logo.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-08-03T15:10:53.739</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lukej\Documents\Visual Studio 2017\Projects\SIMWOODV1\SIMWOODV1\bin\x86\Release\ilc\Assets\Square44x44Logo.scale-150.png">
+      <PackagePath>Assets\Square44x44Logo.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-08-03T15:10:53.753</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lukej\Documents\Visual Studio 2017\Projects\SIMWOODV1\SIMWOODV1\bin\x86\Release\ilc\Assets\Square44x44Logo.scale-200.png">
+      <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-08-03T15:10:53.768</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lukej\Documents\Visual Studio 2017\Projects\SIMWOODV1\SIMWOODV1\bin\x86\Release\ilc\Assets\Square44x44Logo.scale-400.png">
+      <PackagePath>Assets\Square44x44Logo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-08-03T15:10:53.790</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lukej\Documents\Visual Studio 2017\Projects\SIMWOODV1\SIMWOODV1\bin\x86\Release\ilc\Assets\Square44x44Logo.targetsize-16.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-16.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-08-03T15:10:53.813</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lukej\Documents\Visual Studio 2017\Projects\SIMWOODV1\SIMWOODV1\bin\x86\Release\ilc\Assets\Square44x44Logo.targetsize-24.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-24.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-08-03T15:10:53.828</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lukej\Documents\Visual Studio 2017\Projects\SIMWOODV1\SIMWOODV1\bin\x86\Release\ilc\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-08-03T15:10:53.911</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lukej\Documents\Visual Studio 2017\Projects\SIMWOODV1\SIMWOODV1\bin\x86\Release\ilc\Assets\Square44x44Logo.targetsize-256.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-256.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-08-03T15:10:53.883</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lukej\Documents\Visual Studio 2017\Projects\SIMWOODV1\SIMWOODV1\bin\x86\Release\ilc\Assets\Square44x44Logo.targetsize-32.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-32.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-08-03T15:10:53.843</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lukej\Documents\Visual Studio 2017\Projects\SIMWOODV1\SIMWOODV1\bin\x86\Release\ilc\Assets\Square44x44Logo.targetsize-48.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-48.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-08-03T15:10:53.858</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lukej\Documents\Visual Studio 2017\Projects\SIMWOODV1\SIMWOODV1\bin\x86\Release\ilc\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-08-03T15:10:54.801</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lukej\Documents\Visual Studio 2017\Projects\SIMWOODV1\SIMWOODV1\bin\x86\Release\ilc\Assets\StoreLogo.scale-125.png">
+      <PackagePath>Assets\StoreLogo.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-08-03T15:10:54.815</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lukej\Documents\Visual Studio 2017\Projects\SIMWOODV1\SIMWOODV1\bin\x86\Release\ilc\Assets\StoreLogo.scale-150.png">
+      <PackagePath>Assets\StoreLogo.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-08-03T15:10:54.831</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lukej\Documents\Visual Studio 2017\Projects\SIMWOODV1\SIMWOODV1\bin\x86\Release\ilc\Assets\StoreLogo.scale-200.png">
+      <PackagePath>Assets\StoreLogo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-08-03T15:10:54.847</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lukej\Documents\Visual Studio 2017\Projects\SIMWOODV1\SIMWOODV1\bin\x86\Release\ilc\Assets\StoreLogo.scale-400.png">
+      <PackagePath>Assets\StoreLogo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-08-03T15:10:54.867</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lukej\Documents\Visual Studio 2017\Projects\SIMWOODV1\SIMWOODV1\bin\x86\Release\ilc\Assets\Wide310x150Logo.scale-100.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-08-03T15:10:53.083</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lukej\Documents\Visual Studio 2017\Projects\SIMWOODV1\SIMWOODV1\bin\x86\Release\ilc\Assets\Wide310x150Logo.scale-125.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-08-03T15:10:53.110</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lukej\Documents\Visual Studio 2017\Projects\SIMWOODV1\SIMWOODV1\bin\x86\Release\ilc\Assets\Wide310x150Logo.scale-150.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-08-03T15:10:53.151</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lukej\Documents\Visual Studio 2017\Projects\SIMWOODV1\SIMWOODV1\bin\x86\Release\ilc\Assets\Wide310x150Logo.scale-200.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-08-03T15:10:53.206</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lukej\Documents\Visual Studio 2017\Projects\SIMWOODV1\SIMWOODV1\bin\x86\Release\ilc\Assets\Wide310x150Logo.scale-400.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-08-03T15:10:53.341</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lukej\Documents\Visual Studio 2017\Projects\SIMWOODV1\SIMWOODV1\bin\x86\Release\ilc\Authenticate.xbf">
+      <PackagePath>Authenticate.xbf</PackagePath>
+      <Modified>2018-08-03T17:05:06.035</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lukej\Documents\Visual Studio 2017\Projects\SIMWOODV1\SIMWOODV1\bin\x86\Release\ilc\clrcompression.dll">
+      <PackagePath>clrcompression.dll</PackagePath>
+      <Modified>2018-05-16T16:28:22.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lukej\Documents\Visual Studio 2017\Projects\SIMWOODV1\SIMWOODV1\bin\x86\Release\ilc\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2018-08-03T17:05:06.035</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lukej\Documents\Visual Studio 2017\Projects\SIMWOODV1\SIMWOODV1\bin\x86\Release\ilc\Messages.xbf">
+      <PackagePath>Messages.xbf</PackagePath>
+      <Modified>2018-08-03T17:05:06.036</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lukej\Documents\Visual Studio 2017\Projects\SIMWOODV1\SIMWOODV1\bin\x86\Release\ilc\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-08-03T17:05:06.727</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lukej\Documents\Visual Studio 2017\Projects\SIMWOODV1\SIMWOODV1\bin\x86\Release\ilc\SIMWOODV1.dll">
+      <PackagePath>SIMWOODV1.dll</PackagePath>
+      <Modified>2018-08-03T17:05:57.012</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lukej\Documents\Visual Studio 2017\Projects\SIMWOODV1\SIMWOODV1\bin\x86\Release\ilc\SIMWOODV1.exe">
+      <PackagePath>SIMWOODV1.exe</PackagePath>
+      <Modified>2018-08-03T17:05:58.084</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lukej\Documents\Visual Studio 2017\Projects\SIMWOODV1\SIMWOODV1\bin\x86\Release\ilc\SIMWOODV1.pdb">
+      <PackagePath>SIMWOODV1.pdb</PackagePath>
+      <Modified>2018-08-03T17:05:58.075</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.net.native.sharedlibrary\2.1.8\build\..\tools\SharedLibrary\ret\Native\Microsoft.NET.Native.Framework.2.1.appx">
+      <Name>Microsoft.NET.Native.Framework.2.1</Name>
+      <Version>2.1.26424.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Framework.2.1, MinVersion = 2.1.26424.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.net.native.sharedlibrary\2.1.8\build\..\tools\SharedLibrary\ret\Native\Microsoft.NET.Native.Framework.2.1.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x64.microsoft.net.native.sharedlibrary\2.1.8\build\..\tools\SharedLibrary\ret\Native\Microsoft.NET.Native.Framework.2.1.appx">
+      <Name>Microsoft.NET.Native.Framework.2.1</Name>
+      <Version>2.1.26424.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Framework.2.1, MinVersion = 2.1.26424.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x64.microsoft.net.native.sharedlibrary\2.1.8\build\..\tools\SharedLibrary\ret\Native\Microsoft.NET.Native.Framework.2.1.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-arm.microsoft.net.native.sharedlibrary\2.1.8\build\..\tools\SharedLibrary\ret\Native\Microsoft.NET.Native.Framework.2.1.appx">
+      <Name>Microsoft.NET.Native.Framework.2.1</Name>
+      <Version>2.1.26424.0</Version>
+      <Architecture>arm</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Framework.2.1, MinVersion = 2.1.26424.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-arm.microsoft.net.native.sharedlibrary\2.1.8\build\..\tools\SharedLibrary\ret\Native\Microsoft.NET.Native.Framework.2.1.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.net.native.compiler\2.1.8\build\..\tools\Runtime\x86\Microsoft.NET.Native.Runtime.2.1.appx">
+      <Name>Microsoft.NET.Native.Runtime.2.1</Name>
+      <Version>2.1.26424.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Runtime.2.1, MinVersion = 2.1.26424.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.net.native.compiler\2.1.8\build\..\tools\Runtime\x86\Microsoft.NET.Native.Runtime.2.1.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x64.microsoft.net.native.compiler\2.1.8\build\..\tools\Runtime\x64\Microsoft.NET.Native.Runtime.2.1.appx">
+      <Name>Microsoft.NET.Native.Runtime.2.1</Name>
+      <Version>2.1.26424.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Runtime.2.1, MinVersion = 2.1.26424.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x64.microsoft.net.native.compiler\2.1.8\build\..\tools\Runtime\x64\Microsoft.NET.Native.Runtime.2.1.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-arm.microsoft.net.native.compiler\2.1.8\build\..\tools\Runtime\arm\Microsoft.NET.Native.Runtime.2.1.appx">
+      <Name>Microsoft.NET.Native.Runtime.2.1</Name>
+      <Version>2.1.26424.0</Version>
+      <Architecture>arm</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Runtime.2.1, MinVersion = 2.1.26424.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-arm.microsoft.net.native.compiler\2.1.8\build\..\tools\Runtime\arm\Microsoft.NET.Native.Runtime.2.1.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00</Name>
+      <Version>14.0.25426.0</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00, MinVersion = 14.0.25426.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Retail\ARM\Microsoft.VCLibs.ARM.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00</Name>
+      <Version>14.0.25426.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00, MinVersion = 14.0.25426.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Retail\x64\Microsoft.VCLibs.x64.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00</Name>
+      <Version>14.0.25426.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00, MinVersion = 14.0.25426.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Retail\x86\Microsoft.VCLibs.x86.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

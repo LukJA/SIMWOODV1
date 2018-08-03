@@ -1,0 +1,8 @@
+﻿"C:\Users\lukej\Documents\Visual Studio 2017\Projects\SIMWOODV1\SIMWOODV1\obj\x86\Release\ilc\in\Newtonsoft.Json.dll"
+"C:\Users\lukej\Documents\Visual Studio 2017\Projects\SIMWOODV1\SIMWOODV1\obj\x86\Release\ilc\in\SIMWOODV1.exe"
+/Lib:"C:\Users\lukej\Documents\Visual Studio 2017\Projects\SIMWOODV1\SIMWOODV1\obj\x86\Release\ilc\in"
+/Lib:"C:\Program Files (x86)\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.net.native.compiler\2.1.8\tools\x86\ilc\lib\Private"
+/WinMD:"C:\Users\lukej\Documents\Visual Studio 2017\Projects\SIMWOODV1\SIMWOODV1\obj\x86\Release\ilc\in\WinMetadata\Windows.winmd"
+/VSTelemetrySessionSettings:"{"AppId":1001,"AppInsightsInstrumentationKey":"f144292e-e3b2-4011-ac90-20e5c03fbce5","AsimovInstrumentationKey":"AIF-312cbd79-9dbb-4c48-a7da-3cc2a931cb70","HostName":"Dev14","Id":"9a448332-a133-44d6-84f4-dcae69cb3bd3","IsOptedIn":true,"ProcessStartTime":636689074676894064,"UserId":"ac71635a-648e-434c-a8ec-7b1df6305e6e"}"
+/RdXmlPath:"C:\Program Files (x86)\Microsoft SDKs\UWPNuGetPackages\microsoft.net.native.compiler\2.1.8\tools\LibraryXML"
+/RunOnlyPreDR

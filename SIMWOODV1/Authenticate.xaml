@@ -1,0 +1,26 @@
+﻿<Page
+    x:Class="SIMWOODV1.Authenticate"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:SIMWOODV1"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d" Foreground="Black">
+    <Page.Background>
+        <AcrylicBrush TintOpacity="0" AlwaysUseFallback="True" Opacity="0" TintColor="#CCFFFFFF" FallbackColor="White"/>
+    </Page.Background>
+
+    <Grid FocusVisualSecondaryBrush="{x:Null}" >
+
+        <Rectangle HorizontalAlignment="Center" Height="420" VerticalAlignment="Center" Width="550" Stroke="Black" Fill="White"/>
+        <TextBox x:Name="API_username" HorizontalAlignment="Center" Text="" VerticalAlignment="Center" Width="400" PlaceholderText="API Username..." Margin="0,0,0,150"/>
+        <PasswordBox x:Name="API_password" HorizontalAlignment="Center"  VerticalAlignment="Center" Width="400" PlaceholderText="API Password..." Margin="0,0,0,50"/>
+        <TextBlock HorizontalAlignment="Center" Height="60" Text="SIMWOOD SMS" TextWrapping="Wrap" VerticalAlignment="Center" Width="500" Margin="0,0,0,295" FontFamily="Open Sans" FontSize="50" FontStretch="Condensed" FontStyle="Normal" CharacterSpacing="100" FontWeight="Thin" TextAlignment="Center"/>
+        <TextBox x:Name="API_Account" HorizontalAlignment="Center" Text="" VerticalAlignment="Center" Width="400" PlaceholderText="API Account..." Margin="0,50,0,0" />
+        <TextBox x:Name="API_Mobile" HorizontalAlignment="Center" Text="" VerticalAlignment="Center" Width="400" PlaceholderText="API Mobile..." Margin="0,150,0,0" />
+
+        <CheckBox x:Name="Remember_me" HorizontalAlignment="Center" Margin="0,225,0,0" Content="Remember Me"/>
+        <Button x:Name="Login_Button" Content="Login" HorizontalAlignment="Center" Height="32" VerticalAlignment="Center" Width="400" Margin="0,300,0,0" Click="Login_Click"/>
+
+    </Grid>
+</Page>

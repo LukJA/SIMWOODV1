@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Source>C:\Users\lukej\Desktop\message.pdf</Source>
+    <SmallTileSource>C:\Users\lukej\Desktop\message.pdf</SmallTileSource>
+    <MediumTileSource>C:\Users\lukej\Desktop\message.pdf</MediumTileSource>
+    <WideTileSource>C:\Users\lukej\Desktop\message.pdf</WideTileSource>
+    <LargeTileSource>C:\Users\lukej\Desktop\message.pdf</LargeTileSource>
+    <AppIconSource>C:\Users\lukej\Desktop\message.pdf</AppIconSource>
+    <SplashScreenSource>C:\Users\lukej\Desktop\message.pdf</SplashScreenSource>
+    <PackageLogoSource>C:\Users\lukej\Desktop\message.pdf</PackageLogoSource>
+    <BadgeLogoSource>C:\Users\lukej\Desktop\message.pdf</BadgeLogoSource>
+  </PropertyGroup>
+</Project>
